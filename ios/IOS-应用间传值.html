@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta name="exporter-version" content="Evernote Mac 6.0.8 (451398)"/><meta name="author" content="mzhuzhiqiang@163.com"/><meta name="created" content="2016-09-12 09:03:45 +0000"/><meta name="source" content="desktop.mac"/><meta name="updated" content="2016-09-26 08:44:10 +0000"/><title>IOS-应用间传值</title></head><body>
+<div><span style="font-size: 18px;">1、点击项目-&gt;TARGETS-&gt;info-&gt;URL Types。</span></div>
+<div><span style="font-size: 18px;"><br/></span></div>
+<div><span style="font-size: 18px;">2、如图：</span></div>
+<div><span style="font-size: 18px;">    </span> <img src="IOS-%E5%BA%94%E7%94%A8%E9%97%B4%E4%BC%A0%E5%80%BC.resources/178E8940-F63D-48DF-B83B-3FA3CD66732C.png" height="475" width="1324"/></div>
+<div><span style="font-size: 24px;">                                                       其中圈圈的是必填项</span></div>
+<div><span style="font-size: 18px;">     解释：</span></div>
+<div><span style="font-size: 18px;">     1、identifier：唯一标识，</span><span style="font-size: 18px;">就是Bundle ID。</span></div>
+<div><span style="font-size: 18px;">     2、URL Scheme：自定义的Sheme名称。</span></div>
+<div><span style="font-size: 18px;">     3、Role：Viewer（只读模式）。</span></div>
+<div><span style="font-size: 18px;"><br/></span></div>
+<div><span style="font-size: 18px;">3、在AppDelegate中红重写方法，用于接受第三方的传值。</span></div>
+<div><span style="font-size: 18px;">     </span><img src="IOS-%E5%BA%94%E7%94%A8%E9%97%B4%E4%BC%A0%E5%80%BC.resources/CCEF3ED9-6624-4445-8CE0-066B188CCB3E.png" height="692" width="1308"/></div>
+<div><span style="font-size: 18px;"><br/></span></div>
+<div><span style="font-size: 18px;"><img src="IOS-%E5%BA%94%E7%94%A8%E9%97%B4%E4%BC%A0%E5%80%BC.resources/ok.jpg" height="150" width="150"/><br/></span></div>
+</body></html>

@@ -4,6 +4,10 @@
     font-family: "Microsoft YaHei", "寰蒋闆呴粦";
 }
 
+.body{
+    background-color: gainsboro;
+}
+
 .border{
     border: 1px solid gray;
 }
@@ -50,6 +54,10 @@
     overflow: hidden;
 }
 
+.menu_div .menu a{
+    text-decoration: none;
+}
+
 .menu_div .menu li a {
     display: inline-block;
     float: left;
@@ -63,21 +71,24 @@
     text-align: center;
 }
 
-.menu_div .menu li:HOVER a, .menu_div .menu li.active a {
+.menu_div .menu li:HOVER a{
     color: #fff;
+    opacity: 0.5;
+    filter:alpha(opacity=50);
+}
+
+.menu_div .menu li.active a{
     background-color: #3F97E2;
 }
 
 /*涓讳綋鍐呭*/
 .content {
     width: 1000px;
-    height: 1000px;
     margin: 100px auto 50px;
-    background-color: gainsboro;
 }
 
-.content_android_1{
-    width: 33.33%;
+.content_1{
+    width: 32%;
     margin-top: 10%;padding-left: 20px;
 }
 

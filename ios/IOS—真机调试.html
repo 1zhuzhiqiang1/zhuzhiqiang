@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta name="exporter-version" content="Evernote Mac 6.0.8 (451398)"/><meta name="author" content="mzhuzhiqiang@163.com"/><meta name="created" content="2016-09-20 05:29:09 +0000"/><meta name="source" content="desktop.mac"/><meta name="updated" content="2016-09-26 08:43:26 +0000"/><title>IOS—真机调试</title></head><body>
+<div>1、登录开发者主页</div>
+<div>2、生成.cer证书：cer证书是一个和电脑相关的文件，让电脑具备真机调试的功能。</div>
+<div>3、添加 App ID：调试哪些App?</div>
+<div>4、注册真机设备：哪些手机需要真机调试。</div>
+<div>5、结合1、2、3步骤，生成一个MobileProvision文件。</div>
+<div>6、导入car和MobileProvision文件。</div>
+<div><br/></div>
+<div>最终会得到2个文件：</div>
+<div>1、Cer文件——让电脑具备真机调试的功能。</div>
+<div>2、MobileProvision文件——哪些电脑、哪些App、哪些手机需要做真机调试。</div>
+<div><br/></div>
+<div>步骤：</div>
+<div><span style="font-size: 18px;">1、登录开发者网站</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/FB27AB3C-A450-4575-811C-259D3B18FA5D.png" height="525" width="1135"/></div>
+<div><span style="font-size: 18px;">2、创建新的证书</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/632B2AC0-DDFE-4478-995A-3A8804D2A8A3.png" height="550" width="1132"/></div>
+<div><span style="font-size: 18px;">3、请求证书</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/C9CFB636-41DC-4FCE-968B-4F891C8E24BE.png" height="591" width="1108"/></div>
+<div><span style="font-size: 18px;">4、请求证书-2</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/CD08A844-1F8B-4CA7-ACA0-081498ECE527.png" height="258" width="579"/></div>
+<div><span style="font-size: 18px;">5、保存证书</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/5F6E3E75-EA7D-403D-BB7A-0175B3405464.png" height="431" width="620"/></div>
+<div><span style="font-size: 18px;">6、查看文件</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/117044F8-1517-4A99-9AAC-13054377C467.png" height="460" width="877"/></div>
+<div><span style="font-size: 18px;">7、生成你自己的证书，接着第三步</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/4F06E6AB-B2BD-428A-ABB3-124F31A02EC0.png" height="645" width="1120"/></div>
+<div><span style="font-size: 18px;">8、添加 App ID</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/B13E6D64-E024-4E6F-8A06-DF3BA5E05FE1.png" height="574" width="1030"/></div>
+<div><span style="font-size: 18px;">9、添加 App ID 描述</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/92E50657-275C-460E-AD77-61B2DFE8B548.png" height="680" width="1148"/></div>
+<div><span style="font-size: 18px;">10、添加App ID 后缀</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/1587CDD7-A35B-4FC2-AD2E-E893739CC8AE.png" height="653" width="1150"/></div>
+<div><span style="font-size: 18px;">11、成功</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/1A3CE349-80AC-48A8-AF1E-30BBE57D09EF.png" height="585" width="984"/></div>
+<div><span style="font-size: 18px;">12、添加设备</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/2F82F38F-796B-454E-9D06-C1DBAB93CEC8.png" height="597" width="973"/></div>
+<div><br/></div>
+<div><span style="font-size: 18px;">13、获得UDID，进入xcode</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/BF3DE2C0-A240-4323-B078-D345B4B9B8C9.png" height="516" width="865"/></div>
+<div><br/></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/7D566720-53FE-4E75-9F8D-85361F5DC959.png" height="340" width="976"/></div>
+<div>将identifier的值填到UDID处就好了</div>
+<div><span style="font-size: 18px;">14、生成 MobileProvision</span></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/90F0CA62-E238-49BA-8857-E47A3EDBE8E2.png" height="588" width="978"/></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/7A54612C-4954-464C-8328-56ECBD77843D.png" height="503" width="981"/></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/4DBFF49C-32C8-49BA-86D2-933F3C5B803F.png" height="573" width="992"/></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/0EF2B242-7F2C-4710-A6C6-65BF1A9FF785.png" height="546" width="979"/></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/F0DFEE01-E315-48F3-AFBA-823450C52B85.png" height="594" width="1002"/></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/E77C11D9-07B1-4657-83BF-0F71CB899E18.png" height="587" width="1038"/></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/924A8294-1CB6-4CE2-AB55-0085E581AFF0.png" height="577" width="991"/></div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div>问题：</div>
+<div>1、在生成Cer证书的时候，Development下面的IOS App Development是灰色的，不能点击，那是因为账号是开发者账号，只能生成一个Cer证书。</div>
+<div><br/></div>
+<div><img src="IOS%E2%80%94%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.resources/ok.jpg" height="150" width="150"/></div>
+</body></html>
