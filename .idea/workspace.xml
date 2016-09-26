@@ -2,51 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="773e1a1a-3756-49c9-b22e-f939b5eb4c92" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/115801_e5OQ_82993.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/115901_x5zC_82993.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/120046_UCmY_82993.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/120307_r5fq_82993.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/120418_wbov_82993.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/503A461B-38C0-4A70-9A32-A2A51BB9FDBC.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/65E65FF8-5182-4796-8B5B-12A6BDAA24C9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/70EB65CA-E33C-4748-8066-ACF0B034040E.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/71053856-A8B2-42BA-B81C-70DF14F7589F.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/8E7252DC-917E-4836-93D0-EE40781D43AE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/AA5B1189-93F4-489D-AADD-8F2EC370EBC8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/B0D899ED-B65D-4EFB-8F94-2FA230A84B9D.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/B780DB09-E0FF-49B8-A070-0240620A651A.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/E4831A0B-FBE1-4257-82FF-55644F265619.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/FBB88D05-BB33-4D6B-BEF5-61A8F41124A6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/Image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.resources/Image_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术05: Android中的消息机制与异步任务.resources/07D24077-C44E-4837-988F-2A6128FD3D27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术05: Android中的消息机制与异步任务.resources/DD8A2956-1E8D-45D9-9785-59A247649A62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术05: Android中的消息机制与异步任务.resources/F8D8153C-91B1-4711-AEC3-5700C4A765F6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术09: Android中的数据存储.resources/9F49B84E-D861-4056-A3E1-90221F569ADD.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术13. 单例模式与工厂模式.resources/2F0BB8B7-F40D-44A5-8175-0DAB70E55584.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术13. 单例模式与工厂模式.resources/4AB50DBE-F70E-43F4-A539-40DA8908A471.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术13. 单例模式与工厂模式.resources/4F99A007-1DCD-446D-9EFF-1A3C77A9666A.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术14. 常用的三种排序算法.resources/081B6D56-5476-47BE-B700-161544B0EA90.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术14. 常用的三种排序算法.resources/39EE3AEF-3C7C-4D80-8C60-EECD2BD77D2B.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术14. 常用的三种排序算法.resources/5D52E438-551E-48A1-8D87-71AA307A0804.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术14. 常用的三种排序算法.resources/8B93771D-FE9B-4460-B79B-143B02AD756E.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术14. 常用的三种排序算法.resources/BD899762-2897-47CC-817E-F66FEE437051.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术14. 常用的三种排序算法.resources/EC8B0639-D92B-457B-BB2F-D52331C1D1DE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术14. 常用的三种排序算法.resources/FAB37AD3-4668-42B7-857F-85FF1E3298AA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术16. RAM与ROM.resources/7D7BBE7B-D32E-488F-9243-7974CAA5C19D.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/面试技术20_Android开发中的MVC模式.resources/MVC的结构图.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/Eclipse Debug调试.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/学习.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/技术站点.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/自定义View应用.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/自定义View理论知识.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/android.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/h5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/ios.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/index.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/index2.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="zhuzhiqiang.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,8 +27,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/index2.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
               <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
@@ -82,8 +40,8 @@
       <file leaf-file-name="android.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/android.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="723">
-              <caret line="50" column="61" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
+            <state relative-caret-position="80">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -130,6 +88,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -201,20 +165,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zhuzhiqiang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zhuzhiqiang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -235,6 +185,7 @@
       <recent name="$PROJECT_DIR$/html" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/html" />
     </key>
   </component>
@@ -297,12 +248,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1474860142286</updated>
-      <workItem from="1474860146636" duration="3586000" />
+      <workItem from="1474860146636" duration="4078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3586000" />
+    <option name="totallyTimeSpent" value="4078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="188" y="25" width="1400" height="946" extended-state="0" />
@@ -366,7 +317,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/index2.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
@@ -440,8 +391,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/android.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="723">
-          <caret line="50" column="61" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
+        <state relative-caret-position="80">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
       </provider>
