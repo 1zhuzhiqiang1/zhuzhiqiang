@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="773e1a1a-3756-49c9-b22e-f939b5eb4c92" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS — 建立pch文件.resources/A600F990-BA11-4782-AFD2-F8D9EF90B086.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS — 建立pch文件.resources/C4FC71E0-6ED8-4C51-BD70-5D46A2A7955D.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS — 建立pch文件.resources/D993D120-545F-47DB-87CD-9A6D9A0FDF18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS — 建立pch文件.resources/E778E5CE-7174-47A2-B5EA-1614236BE0CF.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS — 建立pch文件.resources/F1803E5F-42DD-4135-B2B8-FE5ADE0471F2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS — 建立pch文件.resources/ok.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS-应用间传值.resources/178E8940-F63D-48DF-B83B-3FA3CD66732C.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS-应用间传值.resources/CCEF3ED9-6624-4445-8CE0-066B188CCB3E.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS-应用间传值.resources/ok.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS——Cordova关于xcode8中出现的问题.resources/BAA8FF42-D31A-44DC-9FBD-C1D9BD9162BD.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS——Cordova关于xcode8中出现的问题.resources/ok.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/0EF2B242-7F2C-4710-A6C6-65BF1A9FF785.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/117044F8-1517-4A99-9AAC-13054377C467.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/1587CDD7-A35B-4FC2-AD2E-E893739CC8AE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/1A3CE349-80AC-48A8-AF1E-30BBE57D09EF.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/2F82F38F-796B-454E-9D06-C1DBAB93CEC8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/4DBFF49C-32C8-49BA-86D2-933F3C5B803F.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/4F06E6AB-B2BD-428A-ABB3-124F31A02EC0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/5F6E3E75-EA7D-403D-BB7A-0175B3405464.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/632B2AC0-DDFE-4478-995A-3A8804D2A8A3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/7A54612C-4954-464C-8328-56ECBD77843D.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/7D566720-53FE-4E75-9F8D-85361F5DC959.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/90F0CA62-E238-49BA-8857-E47A3EDBE8E2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/924A8294-1CB6-4CE2-AB55-0085E581AFF0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/92E50657-275C-460E-AD77-61B2DFE8B548.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/B13E6D64-E024-4E6F-8A06-DF3BA5E05FE1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/BF3DE2C0-A240-4323-B078-D345B4B9B8C9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/C9CFB636-41DC-4FCE-968B-4F891C8E24BE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/CD08A844-1F8B-4CA7-ACA0-081498ECE527.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/E77C11D9-07B1-4657-83BF-0F71CB899E18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/F0DFEE01-E315-48F3-AFBA-823450C52B85.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/FB27AB3C-A450-4575-811C-259D3B18FA5D.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.resources/ok.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS — 建立pch文件.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS-应用间传值.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS——Cordova关于xcode8中出现的问题.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/IOS—真机调试.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/h5.html" afterPath="$PROJECT_DIR$/html/h5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/ios.html" afterPath="$PROJECT_DIR$/html/ios.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/xinbancommon.css" afterPath="$PROJECT_DIR$/stylesheets/xinbancommon.css" />
-    </list>
+    <list default="true" id="773e1a1a-3756-49c9-b22e-f939b5eb4c92" name="Default" comment="" />
     <ignored path="zhuzhiqiang.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -70,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+            <state relative-caret-position="980">
+              <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -308,12 +264,12 @@
       <option name="presentableId" value="Default" />
       <updated>1474860142286</updated>
       <workItem from="1474860146636" duration="6332000" />
-      <workItem from="1474879956107" duration="1171000" />
+      <workItem from="1474879956107" duration="2101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7503000" />
+    <option name="totallyTimeSpent" value="8433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="986" extended-state="6" />
@@ -472,8 +428,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+        <state relative-caret-position="980">
+          <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
           <folding />
         </state>
       </provider>
